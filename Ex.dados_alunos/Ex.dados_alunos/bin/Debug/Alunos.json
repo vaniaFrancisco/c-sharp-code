@@ -1,0 +1,57 @@
+[
+  {
+    "numero": 123,
+    "nome": "Nome1",
+    "notaFinal": 12.3
+  },
+  {
+    "numero": 456,
+    "nome": "Nome2",
+    "notaFinal": 15.1
+  },
+  {
+    "numero": 789,
+    "nome": "Vania",
+    "notaFinal": 19.1
+  },
+  {
+    "numero": 123,
+    "nome": "Alex",
+    "notaFinal": 15.0
+  },
+  {
+    "numero": 1234,
+    "nome": "Ana",
+    "notaFinal": 14.0
+  },
+  {
+    "numero": 1234,
+    "nome": "Ana",
+    "notaFinal": 14.0
+  },
+  {
+    "numero": 1234,
+    "nome": "AnaR",
+    "notaFinal": 45.0
+  },
+  {
+    "numero": 1233,
+    "nome": "Alex",
+    "notaFinal": 15.0
+  },
+  {
+    "numero": 12345,
+    "nome": "AnaR",
+    "notaFinal": 45.0
+  },
+  {
+    "numero": 543,
+    "nome": "maria pereira",
+    "notaFinal": 18.0
+  },
+  {
+    "numero": 54,
+    "nome": "maria jo",
+    "notaFinal": 0.0
+  }
+]

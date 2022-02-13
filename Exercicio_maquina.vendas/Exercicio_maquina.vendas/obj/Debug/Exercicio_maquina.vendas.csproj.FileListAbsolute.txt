@@ -1,0 +1,20 @@
+C:\Users\Vania\Desktop\Algoritmos\Exercicio_maquina.vendas\Exercicio_maquina.vendas\bin\Debug\Exercicio_maquina.vendas.exe.config
+C:\Users\Vania\Desktop\Algoritmos\Exercicio_maquina.vendas\Exercicio_maquina.vendas\bin\Debug\Exercicio_maquina.vendas.exe
+C:\Users\Vania\Desktop\Algoritmos\Exercicio_maquina.vendas\Exercicio_maquina.vendas\bin\Debug\Exercicio_maquina.vendas.pdb
+C:\Users\Vania\Desktop\Algoritmos\Exercicio_maquina.vendas\Exercicio_maquina.vendas\obj\Debug\Exercicio_maquina.vendas.csproj.AssemblyReference.cache
+C:\Users\Vania\Desktop\Algoritmos\Exercicio_maquina.vendas\Exercicio_maquina.vendas\obj\Debug\Exercicio_maquina.vendas.Form1.resources
+C:\Users\Vania\Desktop\Algoritmos\Exercicio_maquina.vendas\Exercicio_maquina.vendas\obj\Debug\Exercicio_maquina.vendas.Properties.Resources.resources
+C:\Users\Vania\Desktop\Algoritmos\Exercicio_maquina.vendas\Exercicio_maquina.vendas\obj\Debug\Exercicio_maquina.vendas.csproj.GenerateResource.cache
+C:\Users\Vania\Desktop\Algoritmos\Exercicio_maquina.vendas\Exercicio_maquina.vendas\obj\Debug\Exercicio_maquina.vendas.csproj.CoreCompileInputs.cache
+C:\Users\Vania\Desktop\Algoritmos\Exercicio_maquina.vendas\Exercicio_maquina.vendas\obj\Debug\Exercicio_maquina.vendas.exe
+C:\Users\Vania\Desktop\Algoritmos\Exercicio_maquina.vendas\Exercicio_maquina.vendas\obj\Debug\Exercicio_maquina.vendas.pdb
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Exercicio_maquina.vendas\Exercicio_maquina.vendas\bin\Debug\Exercicio_maquina.vendas.exe.config
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Exercicio_maquina.vendas\Exercicio_maquina.vendas\bin\Debug\Exercicio_maquina.vendas.exe
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Exercicio_maquina.vendas\Exercicio_maquina.vendas\bin\Debug\Exercicio_maquina.vendas.pdb
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Exercicio_maquina.vendas\Exercicio_maquina.vendas\obj\Debug\Exercicio_maquina.vendas.csproj.AssemblyReference.cache
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Exercicio_maquina.vendas\Exercicio_maquina.vendas\obj\Debug\Exercicio_maquina.vendas.Form1.resources
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Exercicio_maquina.vendas\Exercicio_maquina.vendas\obj\Debug\Exercicio_maquina.vendas.Properties.Resources.resources
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Exercicio_maquina.vendas\Exercicio_maquina.vendas\obj\Debug\Exercicio_maquina.vendas.csproj.GenerateResource.cache
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Exercicio_maquina.vendas\Exercicio_maquina.vendas\obj\Debug\Exercicio_maquina.vendas.csproj.CoreCompileInputs.cache
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Exercicio_maquina.vendas\Exercicio_maquina.vendas\obj\Debug\Exercicio_maquina.vendas.exe
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Exercicio_maquina.vendas\Exercicio_maquina.vendas\obj\Debug\Exercicio_maquina.vendas.pdb
