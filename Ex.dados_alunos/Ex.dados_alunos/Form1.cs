@@ -13,8 +13,8 @@ namespace Ex.dados_alunos
 
         public Form1()
         {
-            this.Alunos = GetAlunos();
-            
+            this.Alunos = this.GetAlunos();
+
             InitializeComponent();
 
             CalcularMedia();
@@ -52,9 +52,9 @@ namespace Ex.dados_alunos
 
             var alunoEncontrado = this.Alunos.Find(aluno => aluno.numero == numeroAluno);
 
-            
+
             this.label_maior_nota.Text = alunoEncontrado.notaFinal.ToString();
-           
+
         }
 
         private void CalcularAlunoMenorNota()
@@ -63,11 +63,12 @@ namespace Ex.dados_alunos
             int numeroAluno = 0;
             for (int i = 0; i < this.Alunos.Count; i++)
             {
-                if(i == 0)
+                if (i == 0)
                 {
                     menorNota = this.Alunos[i].notaFinal;
                     numeroAluno = this.Alunos[i].numero;
-                } else if (this.Alunos[i].notaFinal < menorNota)
+                }
+                else if (this.Alunos[i].notaFinal < menorNota)
                 {
                     menorNota = this.Alunos[i].notaFinal;
                     numeroAluno = this.Alunos[i].numero;
@@ -76,9 +77,9 @@ namespace Ex.dados_alunos
 
             var alunoEncontrado = this.Alunos.Find(aluno => aluno.numero == numeroAluno);
 
-            
+
             this.label_maior_nota.Text = alunoEncontrado.notaFinal.ToString();
-           
+        }
 
         private List<Aluno> GetAlunos()
         {
@@ -100,7 +101,7 @@ namespace Ex.dados_alunos
                     notaFinal = this.Alunos[i].notaFinal
                 });
             }
-           
+
             return list;
         }
 
@@ -203,7 +204,7 @@ namespace Ex.dados_alunos
 
                 this.info.Text = "";
             }
-            
+
         }
 
         private void button_sair_Click(object sender, EventArgs e)
@@ -260,13 +261,14 @@ namespace Ex.dados_alunos
             dataGridView1.DataSource = alunos;
         }
 
-    }
+        
 
-    public class Aluno
-    {
-        public int numero { get; set; }
-        public string nome { get; set; }
-        public double notaFinal { get; set; }
-    }
+        public class Aluno
+        {
+            public int numero { get; set; }
+            public string nome { get; set; }
+            public double notaFinal { get; set; }
+        }
 
+    } 
 }

@@ -11,3 +11,16 @@ C:\Users\Vania\Desktop\Algoritmos\Ex.dados_alunos\Ex.dados_alunos\obj\Debug\Ex.d
 C:\Users\Vania\Desktop\Algoritmos\Ex.dados_alunos\Ex.dados_alunos\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Vania\Desktop\Algoritmos\Ex.dados_alunos\Ex.dados_alunos\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Vania\Desktop\Algoritmos\Ex.dados_alunos\Ex.dados_alunos\obj\Debug\Ex.dados_alunos.csproj.CopyComplete
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Ex.dados_alunos\Ex.dados_alunos\bin\Debug\Ex.dados_alunos.exe.config
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Ex.dados_alunos\Ex.dados_alunos\bin\Debug\Ex.dados_alunos.exe
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Ex.dados_alunos\Ex.dados_alunos\bin\Debug\Ex.dados_alunos.pdb
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Ex.dados_alunos\Ex.dados_alunos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Ex.dados_alunos\Ex.dados_alunos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Ex.dados_alunos\Ex.dados_alunos\obj\Debug\Ex.dados_alunos.csproj.AssemblyReference.cache
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Ex.dados_alunos\Ex.dados_alunos\obj\Debug\Ex.dados_alunos.Form1.resources
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Ex.dados_alunos\Ex.dados_alunos\obj\Debug\Ex.dados_alunos.Properties.Resources.resources
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Ex.dados_alunos\Ex.dados_alunos\obj\Debug\Ex.dados_alunos.csproj.GenerateResource.cache
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Ex.dados_alunos\Ex.dados_alunos\obj\Debug\Ex.dados_alunos.csproj.CoreCompileInputs.cache
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Ex.dados_alunos\Ex.dados_alunos\obj\Debug\Ex.dados_alunos.csproj.CopyComplete
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Ex.dados_alunos\Ex.dados_alunos\obj\Debug\Ex.dados_alunos.exe
+C:\Users\Vania\Desktop\Algoritmos\ex.avaliação_vania francisco\Ex.dados_alunos\Ex.dados_alunos\obj\Debug\Ex.dados_alunos.pdb
